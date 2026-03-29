@@ -4,9 +4,9 @@
 
 interactive dashboard analyzing how Medicare Advantage plan data changes over time — and what that means for building a reliable plan matching system.
 
-## live demo
+## the dashboard
 
-deployed on vercel (link here)
+deployed on vercel ([link here](https://chapter-data-freshness.vercel.app/))
 
 ## overview
 
